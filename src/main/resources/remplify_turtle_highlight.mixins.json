@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.remplify.turtlehighlight.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityMixin", "LivingEntityAccessor", "MinecraftMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
